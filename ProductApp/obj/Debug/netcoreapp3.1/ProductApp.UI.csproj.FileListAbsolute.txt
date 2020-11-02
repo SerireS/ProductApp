@@ -1,0 +1,9 @@
+E:\Work\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.UI.deps.json
+E:\Work\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.UI.dll
+E:\Work\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.UI.pdb
+E:\Work\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.UI.csprojAssemblyReference.cache
+E:\Work\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.UI.AssemblyInfoInputs.cache
+E:\Work\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.UI.AssemblyInfo.cs
+E:\Work\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.UI.csproj.CoreCompileInputs.cache
+E:\Work\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.UI.dll
+E:\Work\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.UI.pdb
